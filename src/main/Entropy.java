@@ -53,13 +53,13 @@ public class Entropy {
 		entropyOutput = new JTextArea(""); //What the string is goign to be..
 		entropyPanel = new JPanel();
 		progressBar = new JProgressBar();
-	    border = BorderFactory.createTitledBorder("Status...");
+	        border = BorderFactory.createTitledBorder("Status...");
 		progressBar.setValue(0);
-	    progressBar.setStringPainted(true);
-	    progressBar.setBorder(border);
-	    progressBar.setPreferredSize( new Dimension (500, 75));
-	    entropyPanel.add(progressBar, BorderLayout.NORTH);
-	    entropyPanel.add(help);
+	        progressBar.setStringPainted(true);
+      	        progressBar.setBorder(border);
+	        progressBar.setPreferredSize( new Dimension (500, 75));
+	        entropyPanel.add(progressBar, BorderLayout.NORTH);
+	        entropyPanel.add(help);
 		entropy.setSize(width, height);
 		entropy.setVisible(true);
 		entropy.setResizable(false);
