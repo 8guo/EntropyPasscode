@@ -1,5 +1,5 @@
 #Entropy Generated Passcode
-#####Please give me feedback and comments through my contact form on my website (taijacky.com) or email me directly at contact@taijacky.com!
+#####Please give me feedback and comments through my contact form on my website (taijacky.com) or email me directly at jackytai@buffalo.edu!
 
 #####About this project.
 Written in Java, this project was aimed to generate an unique passcode which is created in coorlation to the entropy data collected by the user.
